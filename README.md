@@ -1,6 +1,6 @@
 ## Gather
 
-Run the past event gathering script with: `python gatherer.py [calendar_id] [save_file] [data_file]`
+Run the past event gathering script with: `python gather.py [calendar_id] [save_file] [data_file]`
 
 If run with no arguments it will get LACW events with save file "luma_lacw_state.json" and data file "luma_lacw_data.jsonl".
 
